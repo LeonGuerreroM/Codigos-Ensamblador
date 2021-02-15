@@ -1,0 +1,14 @@
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 6 : Found label after column 1. (REGISTRO1)
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 7 : Found label after column 1. (REGISTRO2)
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 8 : Found label after column 1. (REGISTRO3)
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 21 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 54 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 56 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 58 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 59 : Using default destination of 1 (file).
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 59 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 61 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 62 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P2.X\P4PARTE2A.ASM 70 : Register in operand not in bank 0.  Ensure that bank bits are correct.

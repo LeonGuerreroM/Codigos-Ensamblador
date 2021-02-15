@@ -1,0 +1,3 @@
+Warning[205] C:\USERS\LEONM\DESKTOP\P1PARTE3.X\P1PARTE3AR.ASM 1 : Found directive in column 1. (LIST)
+Message[302] C:\USERS\LEONM\DESKTOP\P1PARTE3.X\P1PARTE3AR.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\P1PARTE3.X\P1PARTE3AR.ASM 35 : Register in operand not in bank 0.  Ensure that bank bits are correct.

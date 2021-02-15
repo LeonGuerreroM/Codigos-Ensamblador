@@ -1,0 +1,32 @@
+LIST	    p=16f887
+INCLUDE	    <P16f887.INC>
+	    __CONFIG _CONFIG1, _FOSC_INTRC_CLKOUT & _WDTE_OFF & _PWRTE_OFF & _MCLRE_ON & _CP_OFF & _CPD_OFF & _BOREN_OFF & _IESO_ON & _FCMEN_ON & _LVP_OFF
+	    __CONFIG _CONFIG2, _WRT_OFF & _BOR40V
+
+	    ORG		0   ;apunta a la localidad de memoria 0
+	    GOTO	INICIO
+	    ORG		4
+
+ISR:	    ;codigo de ISR
+    
+INICIO:	    NOP
+	    BANKSEL	TRISB 
+	    CLRF	TRISB; Salida en PORTB
+	    BANKSEL	ANSELH ;se encarga de si el pin se configura como analogico o digital
+	    CLRF	ANSELH ;como le pone 0´s es digital
+	    
+	    BANKSEL	OPTION_REG ;se entra a option_reg para configurar el timer
+	    MOVLW	B'00001000' ;carga w con ese numero
+	    MOVWF	OPTION_REG ;pone w en optionreg 
+	    ;BSF	OPTION_REG,3
+	    ;BSF	OPTION_REG,PSA
+	    ;BSF	OPTION_REG,T0CS
+	    
+	    BANKSEL	PORTB ;se va al banco de portb
+	    CLRF	TMR0 ;se pone en 0 para iniciar el conteo 
+	    MOVLW	0x23 ;Carga ese valor en w
+	    MOVWF	TMR0 ;pone ese valor en TMR0
+LEER:	MOVF	TMR0,0 ;lee el contenido de tmr0 y lo guarda en w
+	    MOVWF	PORTB ;pone el valor de w en portb
+	    GOTO	LEER ;regresa a la funcion
+	    END

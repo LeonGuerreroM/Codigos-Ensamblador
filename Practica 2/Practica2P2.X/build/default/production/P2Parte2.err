@@ -1,0 +1,4 @@
+Warning[205] C:\USERS\LEONM\DESKTOP\PRACTICA2P2.X\P2PARTE2.ASM 1 : Found directive in column 1. (LIST)
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA2P2.X\P2PARTE2.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA2P2.X\P2PARTE2.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA2P2.X\P2PARTE2.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.

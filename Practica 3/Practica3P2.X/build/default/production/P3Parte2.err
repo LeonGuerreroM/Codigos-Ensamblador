@@ -1,0 +1,8 @@
+Warning[205] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 2 : Found directive in column 1. (INCLUDE)
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 45 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 47 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 49 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 50 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 52 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 56 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\LEONM\DESKTOP\PRACTICA3P2.X\P3PARTE2.ASM 69 : Using default destination of 1 (file).

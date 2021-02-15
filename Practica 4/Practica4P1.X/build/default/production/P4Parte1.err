@@ -1,0 +1,13 @@
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 6 : Found label after column 1. (REGISTRO1)
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 7 : Found label after column 1. (REGISTRO2)
+Warning[207] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 8 : Found label after column 1. (REGISTRO3)
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 32 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 34 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 36 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 38 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 39 : Using default destination of 1 (file).
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 39 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 42 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\LEONM\DESKTOP\ARQUI\PRACTICA 4\PRACTICA4P1.X\P4PARTE1.ASM 57 : Register in operand not in bank 0.  Ensure that bank bits are correct.
